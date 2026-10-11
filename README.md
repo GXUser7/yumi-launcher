@@ -10,8 +10,8 @@
 
 <br>
 
-[![Релиз](https://img.shields.io/github/v/release/GXUser7/yumi-launcher?style=flat-square&label=release&labelColor=131A33&color=FFC85A)](https://github.com/GXUser7/yumi-launcher/releases/latest)
-[![Загрузки](https://img.shields.io/github/downloads/GXUser7/yumi-launcher/total?style=flat-square&label=downloads&labelColor=131A33&color=FFC85A)](https://github.com/GXUser7/yumi-launcher/releases)
+[![Релиз](https://img.shields.io/github/v/release/GXUser7/Lumi-launcher?style=flat-square&label=release&labelColor=131A33&color=FFC85A)](https://github.com/GXUser7/Lumi-launcher/releases/latest)
+[![Загрузки](https://img.shields.io/github/downloads/GXUser7/Lumi-launcher/total?style=flat-square&label=downloads&labelColor=131A33&color=FFC85A)](https://github.com/GXUser7/Lumi-launcher/releases)
 [![Windows 10 · 11](https://img.shields.io/badge/Windows-10%20%C2%B7%2011-FFC85A?style=flat-square&labelColor=131A33&logo=windows&logoColor=white)](#как-начать)
 [![Minecraft Java Edition](https://img.shields.io/badge/Minecraft-Java%20Edition-FFC85A?style=flat-square&labelColor=131A33)](#что-умеет)
 [![Fabric · Quilt · Forge · NeoForge](https://img.shields.io/badge/моды-Fabric%20%C2%B7%20Quilt%20%C2%B7%20Forge%20%C2%B7%20NeoForge-FFC85A?style=flat-square&labelColor=131A33)](#сборки)
@@ -19,7 +19,7 @@
 
 <br>
 
-### [Скачать последнюю версию](https://github.com/GXUser7/yumi-launcher/releases/latest)
+### [Скачать последнюю версию](https://github.com/GXUser7/Lumi-launcher/releases/latest)
 
 [Что умеет](#что-умеет) &nbsp;·&nbsp; [Как начать](#как-начать) &nbsp;·&nbsp; [Играть с друзьями](#как-поиграть-с-друзьями) &nbsp;·&nbsp; [Вопросы](#частые-вопросы) &nbsp;·&nbsp; [Новости в Telegram](https://t.me/MaterialYouCloud)
 
@@ -231,4 +231,4 @@ Lumi проверит размер и SHA-1 и скопирует файл в с
 
 ## Об этом репозитории
 
-Здесь — описание лаунчера, готовые установщики в [Releases](https://github.com/GXUser7/yumi-launcher/releases) и [сервер друзей с инструкцией для хостинга](friends-server/README.md). Исходный код самого лаунчера здесь не публикуется.
+Здесь — описание лаунчера, готовые установщики в [Releases](https://github.com/GXUser7/Lumi-launcher/releases) и [сервер друзей с инструкцией для хостинга](friends-server/README.md). Исходный код самого лаунчера здесь не публикуется.
