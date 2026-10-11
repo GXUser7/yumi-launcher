@@ -1,4 +1,4 @@
-"""Yumi Friends: the friends list and online status behind Yumi Launcher.
+"""Yumi Friends: the friends list and online status behind Lumi Launcher.
 
 A small JSON API on Python's standard library alone, so a host has nothing to install: SQLite
 keeps the data in /data, the folder Amvera keeps between deploys. Launchers sign up with a unique
